@@ -1,0 +1,9 @@
+gTTS
+pygame
+PyAutoGUI
+pyttsx3
+SpeechRecognition
+selenium
+psutil
+pygetwindow
+requests
