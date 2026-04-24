@@ -11,3 +11,5 @@ Technologies Used:
                   * Python (Core Logic)
                   * Natural Language Processing (NLP)
                   * Automation Scripts
+How to RUN:
+            pip install -r requirements.txt
